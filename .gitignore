@@ -1,0 +1,5 @@
+.idea
+Files/*
+Rocket.Chat.Android-develop/keystore.properties
+Rocket.Chat.Android-develop/technocom.jks
+Rocket.Chat.Kotlin.SDK/*
